@@ -1,0 +1,29 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "access_control",
+            "name": "core-contract_access",
+            "parameters": {}
+        },
+        {
+            "category": "asset_value_tracking",
+            "name": "core-token",
+            "parameters": {
+                "name": "Daily",
+                "symbol": "DLY",
+                "decimals": "18",
+                "supply": "0"
+            }
+        },
+        {
+            "category": "collection",
+            "name": "core-entity",
+            "parameters": {}
+        }
+    ],
+    "blockchain": "polygon",
+    "language": "solidity",
+    "framework": "react"
+}
